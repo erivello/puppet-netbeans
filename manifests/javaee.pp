@@ -5,6 +5,6 @@
 # include netbeans::javaee
 class netbeans::javaee inherits netbeans {
   Package['NetBeans'] {
-    source => 'http://dlc.sun.com.edgesuite.net/netbeans/${version}/final/bundles/netbeans-${version}-javaee-macosx.dmg',
+    source => 'http://dlc.sun.com.edgesuite.net/netbeans/7.3/final/bundles/netbeans-7.3-javaee-macosx.dmg',
   }
 }
